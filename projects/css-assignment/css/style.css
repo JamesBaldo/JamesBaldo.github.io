@@ -12,11 +12,10 @@ h2 {
 
 
 p {
-  color: AliceBlue;
+  color: Black;
   line-height: 1.3em;
   text-align: left;
   width: 100%;
-  font-family: Helvetica;
   font-size: 18px;
   font-weight: bold;
 }
@@ -32,22 +31,6 @@ p {
   text-transform: uppercase;
 }
 
-.caption {
-  display: block;
-  font-family: 'Playfair Display', serif;
-  font-size: 14px;
-  font-style: italic;
-  line-height: 14px;
-  margin-left: 20px;
-  padding: 10px;
-  position: relative;
-  top: 80%;
-  width: 60%;
-  background-color: white;
-  color: black;
-  opacity: 0.75;
-}
-
 .content {
   padding: 40px;
 }
@@ -58,10 +41,7 @@ p {
   height: 300px;
 }
 
-.writer-img {
-  -webkit-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
-  -moz-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
-  box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
-  float: left;
-  width: 50px;
+
+
+ 
 }
