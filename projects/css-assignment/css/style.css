@@ -27,7 +27,7 @@ p {
 .credit,
 .dateline {
   font-family: 'Playfair Display', serif;
-  color: rgba(255, 255, 255, 0.5);
+  color: black;
   float: left;
   font-size: 14px;
   padding-left: 10px;
