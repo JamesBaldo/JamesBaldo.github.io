@@ -10,9 +10,12 @@ h2 {
   text-align: center;
 }
 
+.travel {
+  color:lightgrey;
+}
 
 p {
-  color: Black;
+  color: black;
   line-height: 1.3em;
   text-align: left;
   width: 100%;
