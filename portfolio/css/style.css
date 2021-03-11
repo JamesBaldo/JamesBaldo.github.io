@@ -1,68 +1,61 @@
-.content{
+.content {
 	padding-top: 5%;
 }
-
-
-
-h2{
-	font-family:'Shippori Mincho B1', serif;
-  color: #769ABF; 
-  font-size: 1.5em;
-  padding-top: 25px;
-  width: 100%;
-  text-align: left;
+h2 {
+	font-family: 'Shippori Mincho B1', serif;
+	color: #769ABF;
+	font-size: 1.5em;
+	padding-top: 25px;
+	width: 100%;
+	text-align: left;
 }
-
-h1,h3{
-	font-family:'Shippori Mincho B1', serif;
-  color: #769ABF; 
-  font-size: 2em;
-  padding-top: 40px;
-  width: 100%;
-  text-align: center;
+h1, h3 {
+	font-family: 'Shippori Mincho B1', serif;
+	color: #769ABF;
+	font-size: 2em;
+	padding-top: 40px;
+	width: 100%;
+	text-align: center;
 }
-
-h4{
-	font-family:'Shippori Mincho B1', serif;
-  color: #769ABF; 
-  font-size: 1.5em;
-  padding-top: 50px;
-  width: 100%;
-  text-align: left;
+h4 {
+	font-family: 'Shippori Mincho B1', serif;
+	color: #769ABF;
+	font-size: 1.5em;
+	padding-top: 50px;
+	width: 100%;
+	text-align: left;
 }
-
-p,li {
-  font-family:'Roboto', sans-serif;
-  color: #769ABF;
-  font-size: 13.5px;
+p, li {
+	font-family: 'Roboto', sans-serif;
+	color: #769ABF;
+	font-size: 13.5px;
 }
-
-.resume h1{
+.box {
+	background: #dcdcdc;
+	padding: 10px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.resume h1 {
 	text-transform: uppercase;
 	font-weight: 700;
 }
-
-.navbar-dark{
+.navbar-dark {
 	background-color: #769ABF;
 }
-
-.navbar-brand{
-	font-family:'Shippori Mincho B1', serif;
+.navbar-brand {
+	font-family: 'Shippori Mincho B1', serif;
 }
-
-nav li{
-	font-family:'Shippori Mincho B1', serif;
-	font-size:12px;
+nav li {
+	font-family: 'Shippori Mincho B1', serif;
+	font-size: 12px;
 	text-transform: uppercase;
 	font-weight: bolder;
-	letter-spacing:1.1px;
+	letter-spacing: 1.1px;
 }
-
-.clips a{
-	padding-top:10%;
-	font-family:'Roboto', sans-serif;
-  color: #769ABF;
-  font-size: 13.5px;
+.clips a {
+	padding-top: 10%;
+	font-family: 'Roboto', sans-serif;
+	color: #769ABF;
+	font-size: 13.5px;
 }
-
-
