@@ -1,0 +1,172 @@
+.content {
+	padding-top: 5%;
+	background-color: #fc5f1a;
+	text-indent: offset 2;
+	border-color: #fc5f1a;
+
+}
+
+.body {
+	outline-offset: 2px;
+
+	column-span: 8: 
+}
+
+.line1, .line3{
+	font-size: 60px;
+	font-family: 'Anton', sans-serif;
+	color: #010833;
+	text-align: center;
+}
+
+.line2{
+	font-size: 120px;
+	font-family: 'Anton', sans-serif;
+	color: #010833;
+	text-align: center;
+}
+
+.bio{
+	padding-top: 3%;
+	font-size: 18px;
+	font-family: 'Nunito Sans', sans-serif;
+	color: #010833;
+	text-align: center;
+	font-weight: 500;
+	font-style: italic;
+	line-height: 1;
+
+}
+
+
+.text1{
+	padding-top: 5%;
+	font-size: 18px;
+	font-family: 'Nunito Sans', sans-serif;
+	color: #010833;
+	column-span: 8;
+}
+
+.text{
+	font-size: 18px;
+	font-family:'Nunito Sans', sans-serif;
+	color: #010833;
+	column-span: 10;
+}
+
+.responsive{
+	width: 100%;
+    max-width: 1250px;
+    height: auto;
+    max-height: 600px;
+    margin-top: 1%;
+    margin-bottom: 2%;
+    margin-right: 2%;
+    margin-left: 2%;
+}
+
+.hyphenbox{
+	width: 100%;
+	max-width: 1250px;
+	height: auto;
+	max-height:400px;
+	background: white;
+	padding: 10px;
+	margin-top: 5px;
+	margin-bottom: 0px;
+}
+
+.hyphentitle{
+	margin-top: 30px;
+	text-align: center;
+	font-family: 'Anton', sans-serif;
+}
+
+.hyphentext {
+	text-align: center;
+	font-size: 18px;
+	font-family:'Nunito Sans', sans-serif;
+	color: black;
+}
+
+.white-box {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	background-color: white;
+	font-color: black;
+	height:auto;
+	width: 1250;
+
+}
+
+.navy-box {
+	width: 100%;
+	max-width: 1300px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	background-color: #010833;
+}
+
+h5 {
+	font-family: 'Anton', sans-serif;
+	color: #ffa500;
+	font-size: 70px;
+	letter-spacing: 2.5px;
+	padding-top: 2%;
+	padding-bottom: 2%;
+	margin-top: 2%;
+	margin-bottom: 2%;
+
+
+}
+
+
+h4 {
+	font-family: 'Anton', sans-serif;
+	color: #010833;
+	font-size: 30px;
+	font-weight: 500px;
+	font-style: bold;
+	letter-spacing: 2.5px;
+	padding-top: 2%;
+	padding-bottom: 2%;
+	margin-top: 0%;
+	margin-bottom: 0%;
+	padding-top: 0%;
+	padding-bottom: 0%;
+	left: offset 1;
+
+}
+
+.sport {
+	font-weight: 500px;
+	letter-spacing: 1,5px;
+	font-size: 18px;
+	color: #ffa500;
+	font-family: 'Nunito Sans', sans-serif;
+}
+
+h3 {
+	font-weight: 300px;
+	font-size: 16px;
+	color: #010833;
+	font-family: 'Nunito Sans', sans-serif; 
+}
+
+
+h6 {
+	font-size: 14px;
+	font-weight: 600px;
+	font-family: 'Nunito Sans', sans-serif;
+	font-style: bold;
+}
+
+.credits {
+	font-size:14px;
+	font-weight: 600px;
+	font-family: 'Nunito Sans', sans-serif;
+}
+
+.links {
+	color: black;
+}
